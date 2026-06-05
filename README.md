@@ -3,7 +3,6 @@
 
 ---
 
-## Project Structure
 
 ```
 hyperspectral-app/

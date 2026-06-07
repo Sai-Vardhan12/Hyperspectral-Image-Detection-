@@ -93,7 +93,6 @@ Frontend will be live at: **http://localhost:5173**
 
 ---
 
-### How it works
 
 ### Pipeline 
 

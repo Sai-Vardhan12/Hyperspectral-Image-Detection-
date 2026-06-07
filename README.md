@@ -230,6 +230,9 @@ gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
 ```
 
 
+-----
+
+
 ## Tech Stack
 
 | Layer      | Technology                               |
@@ -239,4 +242,4 @@ gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
 | ML        | PyTorch (SpectralCNN), Scikit-learn (PCA) |
 | Vision    | OpenCV, NumPy, Pillow                    |
 
-
+-----

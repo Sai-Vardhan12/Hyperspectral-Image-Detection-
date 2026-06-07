@@ -1,5 +1,5 @@
 # HyperVision — Hyperspectral Image Object Detection
-### PCA + CNN · Patch-Based Prediction · FastAPI + React 
+### PCA + CNN · Patch-Based Prediction · FastAPI 
 
 ---
 # Project File Structre 

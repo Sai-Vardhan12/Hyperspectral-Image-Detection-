@@ -4,5 +4,5 @@
   "venvPath": "C:/Users/madan/miniconda3",
   "pythonPath": "C:/Users/madan/miniconda3/python.exe",
   "include": ["backend"],
-  "extraPaths": ["back"]
+  "extraPaths": ["backend"]
 }

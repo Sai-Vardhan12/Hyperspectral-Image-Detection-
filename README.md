@@ -223,7 +223,7 @@ model = load_pretrained(model, "weights/spectral_cnn.pt")
 ```bash
 # Frontend
 cd frontend
-npm run build        
+npm run build        # Output: frontend/dist/
 
 # Backend (with gunicorn)
 cd backend

@@ -15,7 +15,7 @@ const TEAM = [
   },
   {
     name: "Madani Sai Vardhan",
-    role: "Backend Developer",
+    role: "Fullstack Developer",
     initials: "MSV",
     gradient: "from-violet-400 to-purple-500",
     bg: "bg-violet-50",

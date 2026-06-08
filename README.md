@@ -25,7 +25,7 @@ hyperspectral-app/
 │   │   └── predictor.py                ← Overlay + heatmap + JSON summary
 │   └── api/
 │       ├── __init__.py
-│       └── routes.py                   ← POST /predict endpoint
+│       └── routes.py                   
 │
 └── frontend/
     ├── package.json

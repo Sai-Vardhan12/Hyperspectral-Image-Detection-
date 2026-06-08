@@ -1,5 +1,5 @@
 """
-Hyperspectral Image Object Detection - FastAPI Backend
+Hyperspectral Image Object Detection - FastAPI Backend React Frontend
 Entry point: uvicorn main:app --reload
 """
 

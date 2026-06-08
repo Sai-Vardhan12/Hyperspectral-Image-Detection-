@@ -34,6 +34,3 @@ def root():
 def health():
     return {"status": "ok"}
 
-"""
-Timepass
-"""

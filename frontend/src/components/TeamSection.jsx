@@ -5,7 +5,7 @@ import { GraduationCap, Users, BookOpen, Award } from "lucide-react";
 const TEAM = [
   {
     name: "Bodla Manvitha",
-    role: "Ai and Ml engineer",
+    role: "Ml engineer",
     initials: "BM",
     gradient: "from-sky-400 to-cyan-500",
     bg: "bg-sky-50",

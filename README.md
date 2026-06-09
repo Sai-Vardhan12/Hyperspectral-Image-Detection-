@@ -53,7 +53,7 @@ hyperspectral-app/
 
 ---
 
-### Quick 
+### Quick Start
 
 ### 1 — Backend Setup
 

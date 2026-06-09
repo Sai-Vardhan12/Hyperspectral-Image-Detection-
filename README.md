@@ -1,4 +1,4 @@
-# HyperVision — Hyperspectral Image Object Detection
+# HyperVision — Object Detection of hyperspectral Images
 ### PCA + CNN · Patch-Based Prediction · FastAPI + React
 
 ---

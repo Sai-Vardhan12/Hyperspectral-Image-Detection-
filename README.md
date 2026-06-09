@@ -13,7 +13,7 @@ hyperspectral-app/
 │   │   └── normalize.py                ← Image loading, normalization, hyperspectral simulation
 │   ├── patch_extraction/
 │   │   ├── __init__.py
-│   │   └── extractor.py                ← Divide image into patches
+│   │   └── extractor.py                ← Patches division
 │   ├── pca_module/
 │   │   ├── __init__.py
 │   │   └── pca_reducer.py              ← PCA per patch + false-color visualization

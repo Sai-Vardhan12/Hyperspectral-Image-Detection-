@@ -19,7 +19,7 @@ hyperspectral-app/
 │   │   └── pca_reducer.py              ← PCA per patch + false-color visualization
 │   ├── cnn_model/
 │   │   ├── __init__.py
-│   │   └── model.py                    ← 1D SpectralCNN (PyTorch)
+│   │   └── model.py                    ← 1D SpectralCNN 
 │   ├── prediction/
 │   │   ├── __init__.py
 │   │   └── predictor.py                ← Overlay + heatmap + JSON summary

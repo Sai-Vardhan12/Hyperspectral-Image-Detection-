@@ -22,7 +22,7 @@ hyperspectral-app/
 │   │   └── model.py                    ← 1D SpectralCNN (PyTorch
 │   ├── prediction/
 │   │   ├── __init__.py
-│   │   └── predictor.py                ← Overlay + heatmap + JSON summary
+│   │   └── predictor.py                ← Overlay + heatmap 
 │   └── api/
 │       ├── __init__.py
 │       └── routes.py                   

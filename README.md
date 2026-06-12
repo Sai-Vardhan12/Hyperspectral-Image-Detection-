@@ -16,7 +16,7 @@ hyperspectral-app/
 │   │   └── extractor.py                ← Divide images into paches
 │   ├── pca_module/
 │   │   ├── __init__.py
-│   │   └── pca_reducer.py              ← PCA per patch + false-color visualization
+│   │   └── pca_reducer.py              ← PCA per patch + false-color 
 │   ├── cnn_model/
 │   │   ├── __init__.py
 │   │   └── model.py                    ← 1D SpectralCNN (PyTorch

@@ -77,7 +77,7 @@ Swagger docs: **http://localhost:8000/docs**
 
 ---
 
-### 2 — Frontend Setup
+### 2 — Frontend 
 
 ```bash
 cd frontend

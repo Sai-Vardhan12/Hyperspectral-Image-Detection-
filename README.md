@@ -55,7 +55,7 @@ hyperspectral-app/
 
 ### Quick Start
 
-### 1 — Backend 
+### 1 — Backend Setup
 
 ```bash
 cd backend

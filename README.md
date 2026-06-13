@@ -2,7 +2,7 @@
 ### PCA + CNN · Patch-Based Prediction · FastAPI + React
 
 ---
-### Project File 
+### Project File Structure
 ```
 hyperspectral-app/
 ├── backend/

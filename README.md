@@ -6,7 +6,7 @@
 ```
 hyperspectral-app/
 ├── backend/
-│   ├── main.py                         ← FastAPI entry points
+│   ├── main.py                         ← FastAPI entry point
 │   ├── requirements.txt
 │   ├── preprocessing/
 │   │   ├── __init__.py

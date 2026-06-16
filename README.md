@@ -3,7 +3,7 @@
 
 
 ---
-### Project 
+### Project File Structure
 ```
 hyperspectral-app/
 ├── backend/

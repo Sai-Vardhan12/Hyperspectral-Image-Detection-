@@ -236,13 +236,6 @@ gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
 -----
 
 
-## Tech Stack
-
-| Layer      | Technology                               |
-|-----------|------------------------------------------|
-| Frontend  | React 18, Vite, Tailwind CSS, Framer Motion, Axios |
-| Backend   | Python 3.10+, FastAPI, Uvicorn           |
-| ML        | PyTorch (SpectralCNN), Scikit-learn (PCA) |
-| Vision    | OpenCV, NumPy, Pillow                    |
+                  |
 
 -----

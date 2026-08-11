@@ -11,7 +11,7 @@ hyperspectral-app/
 │   ├── requirements.txt
 │   ├── preprocessing/
 │   │   ├── __init__.py
-│   │   └── normalize.py                ← Image loading, normalization, hyperspectral simulation
+│   │   └── normalize.py                ← Image loading, normalization, hyperspectral 
 │   ├── patch_extraction/
 │   │   ├── __init__.py
 │   │   └── extractor.py                ← Divide images into paches

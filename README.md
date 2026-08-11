@@ -61,7 +61,7 @@ hyperspectral-app/
 ```bash
 cd backend
 
-# Create virtual environment (recommended)
+# Create virtual environment 
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
 
